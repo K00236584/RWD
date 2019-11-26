@@ -23,7 +23,8 @@ header
         {
         float:left; 
         width:20%; 
-		height:30%;
+		height:60%;
+		min-height:1800px;
         background-color:green;
         }
 .left-sidebar-inner
@@ -38,7 +39,8 @@ header
         {
         float:left;
         width:60%;
-		height: 60%;
+		height:60%;
+		min-height:1800px;
         background-color:black;
         }
 .main-inner
@@ -52,7 +54,8 @@ header
         {
         float:left;
         width:20%;
-		height: 60%;
+		min-height:1800px;
+		height:60%;
         background-color:grey;
         }
 .right-sidebar-inner
